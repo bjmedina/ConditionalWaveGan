@@ -1,1 +1,1 @@
-# DeepJockey
+# Conditional Wavegan
