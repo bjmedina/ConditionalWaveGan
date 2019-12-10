@@ -296,7 +296,7 @@ class GAN():
         plt.legend(['Discriminator', 'Generator'])
         plt.xlabel('Epoch')
         plt.ylabel('Loss')
-        plt.savefig('chad_loss_{}.png'.format(self.epochs), transparent=True)
+        plt.savefig('grgan_loss_{}.png'.format(self.epochs), transparent=True)
         plt.close()
 
 if __name__ == '__main__':
